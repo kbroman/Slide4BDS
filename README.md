@@ -3,6 +3,8 @@
 These is a slide for the orientation session for new MS and PhD
 students in the Biomedical Data Science program at UW-Madison.
 
+Slide PDF: <https://kbroman.org/Slide4BDS/broman_slide.pdf>
+
 ---
 
 To the extent possible under law,
