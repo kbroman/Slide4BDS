@@ -1,0 +1,11 @@
+Karl Broman works on genetic mapping in experimental organisms, such
+as mice. He is currently focusing on multi-parent crosses, where
+multiple mouse strains are crossed for main generations to break up
+the chromosomes into small pieces. One can then scan the genome,
+similar to a human genome-wide association study, looking for regions
+where there is an association between genotype and some clinical
+outcome.
+
+He teaches two courses: the literature discussion course for 2nd year
+BDS PhD students, and the professional skills course for 3rd year BDS
+PhD students.
